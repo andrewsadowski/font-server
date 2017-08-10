@@ -6,8 +6,8 @@ var app = express();
 
 app.use(express.static(__dirname + '/public'));
 
-app.get('/de.html', (req, res) => {
-    res.render('./public/de.html', {
+app.get('/html/de.html', (req, res) => {
+    res.render('./public/html/de.html', {
         pageTitle: 'DE'
     });
 });
