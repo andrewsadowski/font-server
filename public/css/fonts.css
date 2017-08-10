@@ -7,13 +7,16 @@
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Black-Web.woff') format('woff'), /* Pretty Modern Browsers */
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Black-Web.ttf')  format('truetype'), /* Safari, Android, iOS */
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Black-Web.svg#svgAtlasGrotesk-Black-Web') format('svg'); /* Legacy iOS */
+    font-weight:  900;
+    font-style:   normal;
+    font-stretch: normal;
 }
 
 .AtlasGrotesk-Black-Web {
     font-family: 'AtlasGrotesk-Black-Web';
-    /*font-weight: 900;
+    font-weight: 900;
     font-style: normal;
-    font-stretch: normal;*/
+    font-stretch: normal;
 }
 
 @font-face {
