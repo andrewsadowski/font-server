@@ -7,7 +7,9 @@ var app = express();
 app.use(express.static(__dirname + '/public'));
 
 app.get('/de.html', (req, res) => {
-    res.render('./public/de.html');
+    res.render('./public/de.html', {
+        pageTitle: 'DE'
+    });
 });
 
 app.get('/help', (req, res) => {
