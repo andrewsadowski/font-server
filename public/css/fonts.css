@@ -1,3 +1,5 @@
+/* Atlas Grotesk fonts */
+
 @font-face {
     font-family: 'AtlasGrotesk-Black-Web';
     src:    url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Black-Web.eot'); /* IE9 Compat Modes */
@@ -5,6 +7,13 @@
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Black-Web.woff') format('woff'), /* Pretty Modern Browsers */
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Black-Web.ttf')  format('truetype'), /* Safari, Android, iOS */
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Black-Web.svg#svgAtlasGrotesk-Black-Web') format('svg'); /* Legacy iOS */
+}
+
+.AtlasGrotesk-Black-Web {
+    font-family: 'AtlasGrotesk-Black-Web';
+    /*font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;*/
 }
 
 @font-face {
@@ -16,6 +25,10 @@
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-BlackItalic-Web.svg#svgAtlasGrotesk-BlackItalic-Web') format('svg'); /* Legacy iOS */
 }
 
+.AtlasGrotesk-BlackItalic-Web {
+    font-family: 'AtlasGrotesk-BlackItalic-Web';
+}
+
 @font-face {
     font-family: 'AtlasGrotesk-Bold-Web';
     src:    url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Bold-Web.eot'); /* IE9 Compat Modes */
@@ -23,6 +36,10 @@
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Bold-Web.woff') format('woff'), /* Pretty Modern Browsers */
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Bold-Web.ttf')  format('truetype'), /* Safari, Android, iOS */
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Bold-Web.svg#svgAtlasGrotesk-Bold-Web') format('svg'); /* Legacy iOS */
+}
+
+.AtlasGrotesk-Bold-Web {
+    font-family: 'AtlasGrotesk-Bold-Web';
 }
 
 @font-face {
@@ -34,6 +51,10 @@
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-BoldItalic-Web.svg#svgAtlasGrotesk-BoldItalic-Web') format('svg'); /* Legacy iOS */
 }
 
+.AtlasGrotesk-BoldItalic-Web {
+    font-family: 'AtlasGrotesk-BoldItalic-Web';
+}
+
 @font-face {
     font-family: 'AtlasGrotesk-Light-Web';
     src:    url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Light-Web.eot'); /* IE9 Compat Modes */
@@ -41,6 +62,10 @@
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Light-Web.woff') format('woff'), /* Pretty Modern Browsers */
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Light-Web.ttf')  format('truetype'), /* Safari, Android, iOS */
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Light-Web.svg#svgAtlasGrotesk-Light-Web') format('svg'); /* Legacy iOS */
+}
+
+.AtlasGrotesk-Light-Web {
+    font-family: 'AtlasGrotesk-Light-Web';
 }
 
 @font-face {
@@ -52,6 +77,10 @@
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-LightItalic-Web.svg#svgAtlasGrotesk-LightItalic-Web') format('svg'); /* Legacy iOS */
 }
 
+.AtlasGrotesk-LightItalic-Web {
+    font-family: 'AtlasGrotesk-LightItalic-Web';
+}
+
 @font-face {
     font-family: 'AtlasGrotesk-Medium-Web';
     src:    url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Medium-Web.eot'); /* IE9 Compat Modes */
@@ -59,6 +88,10 @@
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Medium-Web.woff') format('woff'), /* Pretty Modern Browsers */
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Medium-Web.ttf')  format('truetype'), /* Safari, Android, iOS */
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Medium-Web.svg#svgAtlasGrotesk-Medium-Web') format('svg'); /* Legacy iOS */
+}
+
+.AtlasGrotesk-Medium-Web {
+    font-family: 'AtlasGrotesk-Medium-Web';
 }
 
 @font-face {
@@ -70,6 +103,10 @@
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-MediumItalic-Web.svg#svgAtlasGrotesk-MediumItalic-Web') format('svg'); /* Legacy iOS */
 }
 
+.AtlasGrotesk-MediumItalic-Web {
+    font-family: 'AtlasGrotesk-MediumItalic-Web';
+}
+
 @font-face {
     font-family: 'AtlasGrotesk-Regular-Web';
     src:    url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Regular-Web.eot'); /* IE9 Compat Modes */
@@ -77,6 +114,10 @@
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Regular-Web.woff') format('woff'), /* Pretty Modern Browsers */
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Regular-Web.ttf')  format('truetype'), /* Safari, Android, iOS */
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Regular-Web.svg#svgAtlasGrotesk-Regular-Web') format('svg'); /* Legacy iOS */
+}
+
+.AtlasGrotesk-Regular-Web {
+    font-family: 'AtlasGrotesk-Regular-Web';
 }
 
 @font-face {
@@ -88,6 +129,10 @@
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-RegularItalic-Web.svg#svgAtlasGrotesk-RegularItalic-Web') format('svg'); /* Legacy iOS */
 }
 
+.AtlasGrotesk-RegularItalic-Web {
+    font-family: 'AtlasGrotesk-RegularItalic-Web';
+}
+
 @font-face {
     font-family: 'AtlasGrotesk-Thin-Web';
     src:    url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Thin-Web.eot'); /* IE9 Compat Modes */
@@ -95,6 +140,10 @@
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Thin-Web.woff') format('woff'), /* Pretty Modern Browsers */
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Thin-Web.ttf')  format('truetype'), /* Safari, Android, iOS */
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-Thin-Web.svg#svgAtlasGrotesk-Thin-Web') format('svg'); /* Legacy iOS */
+}
+
+.AtlasGrotesk-Thin-Web {
+    font-family: 'AtlasGrotesk-Thin-Web';
 }
 
 @font-face {
@@ -106,6 +155,12 @@
             url('../../fonts/Atlas Grotesk/Webfonts/AtlasGrotesk-ThinItalic-Web.svg#svgAtlasGrotesk-ThinItalic-Web') format('svg'); /* Legacy iOS */
 }
 
+.AtlasGrotesk-ThinItalic-Web {
+    font-family: 'AtlasGrotesk-ThinItalic-Web';
+}
+
+
+/* Sharp Grotesk fonts */
 
 @font-face {
     font-family: 'SharpGroteskDBBook20';
@@ -114,6 +169,10 @@
             url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBBook20.woff') format('woff'), /* Pretty Modern Browsers */
             url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBBook20.woff2') format('woff2'), /* Super Modern Browsers */
             url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBBook20.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+
+.SharpGroteskDBBook20 {
+    font-family: 'SharpGroteskDBBook20';
 }
 
 @font-face {
@@ -125,6 +184,10 @@
             url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBBook22.ttf')  format('truetype'), /* Safari, Android, iOS */
 }
 
+.SharpGroteskDBBook22 {
+    font-family: 'SharpGroteskDBBook22';
+}
+
 @font-face {
     font-family: 'SharpGroteskDBBookItalic20';
     src:    url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBBookItalic20.eot'); /* IE9 Compat Modes */
@@ -132,6 +195,10 @@
             url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBBookItalic20.woff') format('woff'), /* Pretty Modern Browsers */
             url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBBookItalic20.woff2') format('woff2'), /* Super Modern Browsers */
             url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBBookItalic20.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+
+.SharpGroteskDBBookItalic20 {
+    font-family: 'SharpGroteskDBBookItalic20';
 }
 
 @font-face {
@@ -143,6 +210,10 @@
             url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBMedium20.ttf')  format('truetype'), /* Safari, Android, iOS */
 }
 
+.SharpGroteskDBMedium20 {
+    font-family: 'SharpGroteskDBMedium20';
+}
+
 @font-face {
     font-family: 'SharpGroteskDBMedium22';
     src:    url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBMedium22.eot'); /* IE9 Compat Modes */
@@ -150,6 +221,10 @@
             url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBMedium22.woff') format('woff'), /* Pretty Modern Browsers */
             url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBMedium22.woff2') format('woff2'), /* Super Modern Browsers */
             url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBMedium22.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+
+.SharpGroteskDBMedium22 {
+    font-family: 'SharpGroteskDBMedium22';
 }
 
 @font-face {
@@ -161,6 +236,10 @@
             url('SharpGroteskDBMediumItalic20.ttf')  format('truetype'), /* Safari, Android, iOS */
 }
 
+.SharpGroteskDBMediumItalic20 {
+    font-family: 'SharpGroteskDBMediumItalic20';
+}
+
 @font-face {
     font-family: 'SharpGroteskDBSmBold20';
     src:    url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBSmBold20.eot'); /* IE9 Compat Modes */
@@ -168,6 +247,10 @@
             url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBSmBold20.woff') format('woff'), /* Pretty Modern Browsers */
             url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBSmBold20.woff2') format('woff2'), /* Super Modern Browsers */
             url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBSmBold20.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+
+.SharpGroteskDBSmBold20 {
+    font-family: 'SharpGroteskDBSmBold20';
 }
 
 @font-face {
@@ -179,6 +262,10 @@
             url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBSmBold22.ttf')  format('truetype'), /* Safari, Android, iOS */
 }
 
+.SharpGroteskDBSmBold22 {
+    font-family: 'SharpGroteskDBSmBold22';
+}
+
 @font-face {
     font-family: 'SharpGroteskDBSmBoldItalic20';
     src:    url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBSmBoldItalic20.eot'); /* IE9 Compat Modes */
@@ -186,4 +273,8 @@
             url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBSmBoldItalic20.woff') format('woff'), /* Pretty Modern Browsers */
             url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBSmBoldItalic20.woff2') format('woff2'), /* Super Modern Browsers */
             url('../../fonts/Sharp Grotesk/Webfonts/SharpGroteskDBSmBoldItalic20.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+
+.SharpGroteskDBSmBoldItalic20 {
+    font-family: 'SharpGroteskDBSmBoldItalic20';
 }
