@@ -1,2 +1,4 @@
 node_modules/
 fonts/
+.DS_Store
+public/.DS_Store
