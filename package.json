@@ -1,7 +1,7 @@
 {
   "name": "font-server",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.2.0",
+  "description": "ExpressJS server for font testing",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,6 +9,10 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+      "type" : "git",
+      "url" : "https://github.com/andrewsadowski/font-server.git"
+  },
   "dependencies": {
     "express": "^4.15.4"
   },
