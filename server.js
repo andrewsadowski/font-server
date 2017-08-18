@@ -29,6 +29,18 @@ app.get('/html/es_la.html', (req, res) => {
     });
 });
 
+app.get('/html/ru.html', (req, res) => {
+    res.render('/public/html/ru.html', {
+        pageTitle: 'ruRU'
+    });
+});
+
+app.get('/html/tr.html', (req, res) => {
+    res.render('/public/html/tr.html', {
+        pageTitle: 'trTR'
+    });
+});
+
 app.get('/html/ko.html', (req, res) => {
     res.render('/public/html/ko.html', {
         pageTitle: 'KO'
